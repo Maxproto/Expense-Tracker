@@ -1,8 +1,8 @@
 # Expense Tracker
 
-![Expense Tracker](./src/assets/screenshot.png)
-
 This is a simple Expense Tracker application built using Vue.js with the Composition API. It's designed to help users manage their personal finances by keeping track of income and expenses.
+
+![Expense Tracker](./src/assets/screenshot.png)
 
 ## Features
 
